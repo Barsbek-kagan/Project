@@ -1,16 +1,11 @@
-
-
-// App.jsx
 import React from 'react';
-import Counter from './components/Counter';
 
-function App() {
+const App = () => {
     return (
         <div>
-            <h1>Counter App</h1>
-
+            <h2>dfghj</h2>
         </div>
     );
-}
+};
 
 export default App;
